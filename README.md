@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes Project
 
 This is a project to build a basic recipe website to help put into practice my knowledge of HTML learned so far on The Odin Project. It will consist of simply a main page with links to a few different recipes.
 
