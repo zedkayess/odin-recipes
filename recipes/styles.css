@@ -1,20 +1,37 @@
 * {
     outline: 2px solid grey;
-}
-
-.head-desc {
+    background-color: rgb(236, 228, 248);
     font-family: Helvetica, Tahoma, sans-serif;
 }
 
+.head {
+    text-align: center;
+}
+
+.img {
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.desc {
+     color: rgb(75, 47, 107)
+}
+
 .ingredients {
-    color: teal;
+    color:teal;
 }
 
 .method {
-    color: rgb(228, 100, 2);
+    color: rgb(37, 56, 151);
 }
 
+.desc,
 .ingredients,
 .method {
-    font-family: Helvetica, sans-serif
+    padding: 0px 15px;
+}
+
+li {
+    padding: 5px;
 }
