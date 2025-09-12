@@ -1,0 +1,20 @@
+* {
+    outline: 2px solid grey;
+}
+
+.head-desc {
+    font-family: Helvetica, Tahoma, sans-serif;
+}
+
+.ingredients {
+    color: teal;
+}
+
+.method {
+    color: rgb(228, 100, 2);
+}
+
+.ingredients,
+.method {
+    font-family: Helvetica, sans-serif
+}
